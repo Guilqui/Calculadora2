@@ -1,0 +1,26 @@
+label {
+	display: block;
+	float: left;
+}
+
+/*/Define um tamanho, impedindo que fiquem desalinhados*/
+
+label, input {
+	width:100px;
+	margin: 2px 0;
+}
+
+/* AUMENTA A largura do INPUT*/
+input {
+	width: 100px;;
+}
+
+/*Define uma largura para a parte subliada de fora*/
+fieldset {
+	width:500px;
+}
+
+fieldset {
+    word-spacing: 3px;
+}
+
